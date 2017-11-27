@@ -1,0 +1,149 @@
+h1{
+   color:red;
+ font-family: 'Princess Sofia', cursive;
+   font-size: 30pt;
+
+}
+#header{
+  width: 920px;
+  height: 338px;
+  border: 5px solid green;
+  float: left;
+  margin: 5px;
+  background-color: seashell;
+  background-image: url(beach.jpg);
+}
+#menu{
+  width: 630px;
+  height: 420px;
+  border: 5px solid green;
+  margin: 5px;
+  float: left;
+  background-color: seashell;
+  background-image: url(greenwater.jpg);
+}
+#pictures{
+  width: 700px;
+  height: 300px;
+  border: 5px solid green;
+  margin: 5px;
+  float: left;
+  clear: both;
+  font-size: 20pt;
+  color: green;
+  background-color: seashell;
+}
+body {
+  color: white;
+  background-color:aqua;
+}
+a{
+  color: white;
+}
+#header2{
+  width: 590px;
+  height: 420px;
+  border: 5px solid green;
+  float: left;
+  margin: 5px;
+  background-color: seashell;
+  background-image: url(lazyriver.jpg);
+}
+#menu2{
+  width: 620px;
+  height: 420px;
+  border: 5px solid green;
+  margin: 5px;
+  float: left;
+  color: green;
+  background-color: seashell;
+
+}
+#pictures2{
+  width: 360px;
+  height: 250px;
+  border: 5px solid green;
+  margin: 5px;
+  float: right;
+  font-size: 20pt;
+  color: white;
+  background-color: seashell;
+  background-image: url(sandals.jpg);
+}
+#pictures3{
+  width: 252px;
+  height: 200px;
+  border: 5px solid green;
+  margin: 5px;
+  float: right;
+  font-size: 20pt;
+  color: white;
+  background-color: seashell;
+  background-image: url(oneandonly.jpg);
+}
+#header3{
+  width: 532px;
+  height: 309px;
+  border: 5px solid green;
+  float: left;
+  margin: 5px;
+  background-color: seashell;
+  background-image: url(stingray.jpg);
+}
+#menu3{
+  width: 620px;
+  height: 420px;
+  border: 5px solid green;
+  margin: 5px;
+  float: left;
+  color: green;
+  background-color: seashell;
+
+}
+#pictures4{
+  width: 245px;
+  height: 200px;
+  border: 5px solid green;
+  margin: 5px;
+  float: right;
+  font-size: 20pt;
+  color: white;
+  background-color: seashell;
+  background-image: url(seashell.jpg);
+}
+#header4{
+  width: 852px;
+  height: 480px;
+  border: 5px solid green;
+  float: left;
+  margin: 5px;
+  background-color: seashell;
+  background-image: url(topview.jpg);
+}
+#header5{
+  width: 700px;
+  height: 300px;
+  border: 5px solid green;
+  float: left;
+  margin: 5px;
+  background-color: seashell;
+  background-image: url(couple.jpg);
+}
+#menu4{
+  width: 400px;
+  height: 215px;
+  border: 5px solid green;
+  margin: 5px;
+  float: left;
+  color: green;
+  background-color: seashell;
+
+}
+#header6{
+  width: 1500px;
+  height: 500px;
+  border: 5px solid green;
+  float: left;
+  margin: 5px;
+  background-color: orange;
+}
